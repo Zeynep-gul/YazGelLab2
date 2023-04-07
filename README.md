@@ -23,11 +23,11 @@ işlemine devam edecektir.
 ● Bu oluşturulan 16 parça butonlardan oluşmalıdır. İki butona sırayla tıklamak suretiyle,
 butonların yerini değiştirmelisiniz.
 
-o Kullanıcı ilk olarak gitmesi gereken (doğru olduğunu düşündüğü) parçanın üzerine
+● Kullanıcı ilk olarak gitmesi gereken (doğru olduğunu düşündüğü) parçanın üzerine
 tıklayıp, daha sonra gideceği konumdaki parçanın üzerine tıklayarak parçaların yer
 değiştirmesini sağlayacaktır. 
 
-o Doğru yere yerleştirlen butonlar kilitlenmelidir. Doğru yerleştirilmiş parçalar için sonraki
+● Doğru yere yerleştirlen butonlar kilitlenmelidir. Doğru yerleştirilmiş parçalar için sonraki
 konum değişikliklerine izin verilmemelidir.
 
 ● Parçaların doğru yerde olup olmadığının kontrolünde id veya parçaların
@@ -40,10 +40,10 @@ yalnızca bağlı liste kullanılarak gerçekleştirilecektir.
 o Arayüzde en yüksek skor bilgisi bulunacaktır. Puzzle tamamlandıktan sonra score bilgisi,
 ‘enyuksekskor.txt’ belgesine yazılacaktır.
 
-o Her doğru hamle +5 puan, her yanlış hamle ise -10 puan olacak şekilde oyunu
+● Her doğru hamle +5 puan, her yanlış hamle ise -10 puan olacak şekilde oyunu
 tasarlamalısınız.
 
-o Her hamleden sonra kullanıcı puan durumunu arayüz üzerinden görebilmelidir.
+● Her hamleden sonra kullanıcı puan durumunu arayüz üzerinden görebilmelidir.
 
 o ‘enyuksekskor.txt’ belgesinde kullanıcı adı, hamle sayısı ve puanı olmak üzere üç
 bilgi bulunmalıdır.
